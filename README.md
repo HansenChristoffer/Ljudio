@@ -18,3 +18,11 @@ Group school project for Web development. A fullstack website that allows you to
 14. Open browser and navigate to http://localhost:3000
 
 Have fun!
+
+# Authors
+
+[github.com/HansenChristoffer](https://github.com/HansenChristoffer "Christoffer Hansen")
+[github.com/jonathanlindahl](https://github.com/jonathanlindahl "Jonathan Lindahl")
+[github.com/vktrlndr](https://github.com/vktrlndr "Viktor Åhlander")
+[github.com/musicollins](https://github.com/musicollins "Rafael Ángel")
+[github.com/logarhytmic](https://github.com/logarhytmic "logarhytmic")
