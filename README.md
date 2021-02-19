@@ -21,8 +21,8 @@ Have fun!
 
 # Authors
 
-[github.com/HansenChristoffer](https://github.com/HansenChristoffer "Christoffer Hansen")  
-[github.com/jonathanlindahl](https://github.com/jonathanlindahl "Jonathan Lindahl")  
-[github.com/vktrlndr](https://github.com/vktrlndr "Viktor Åhlander")  
-[github.com/musicollins](https://github.com/musicollins "Rafael Ángel")  
-[github.com/logarhytmic](https://github.com/logarhytmic "logarhytmic")  
+[HansenChristoffer](https://github.com/HansenChristoffer "Christoffer Hansen")  
+[Jonathanlindahl](https://github.com/jonathanlindahl "Jonathan Lindahl")  
+[Vktrlndr](https://github.com/vktrlndr "Viktor Åhlander")  
+[Musicollins](https://github.com/musicollins "Rafael Ángel")  
+[Logarhytmic](https://github.com/logarhytmic "logarhytmic")  
